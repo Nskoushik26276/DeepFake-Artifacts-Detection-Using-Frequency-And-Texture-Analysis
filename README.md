@@ -15,9 +15,9 @@ Grayscale Channel → preserves the global visual structure
 
 **📊 Model Performance**
 Feature Used	Accuracy	Confidence
-LBP only	74.94%	81.64%
-DWT only	76.21%	83.93%
-⭐ DWT + LBP Fusion	91.78%	100%
+LBP only	74.94% accuracy and	81.64% confidence
+DWT only	76.21% accuracy and	83.93% confidence
+⭐ DWT + LBP Fusion	91.78% accuracy and	100% confidence
 
 📌 Result: The combined feature model greatly outperforms individual feature models, proving that texture + frequency fusion is more discriminative for deepfake detection.
 
